@@ -11,3 +11,4 @@ Day 4 --> Ugly Number 2 --> Dynamic Programming --> Medium --> https://bit.ly/2Z
 Day 5 --> Hamming Distance --> Bit Manipulation --> Easy --> https://bit.ly/2Z2aq7S <br/>
 Day 6 --> Plus One --> Arrays & Math --> Easy --> https://bit.ly/31Odu9v <br/>
 Day 7 --> Island Perimeter --> Arrays & Geometry --> Easy --> https://bit.ly/31QKpKC <br/>
+Day 8 --> 3 Sum --> Arrays (Two Pointer) --> Medium --> https://bit.ly/3iBVghH <br/>
