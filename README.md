@@ -15,3 +15,4 @@ Day 8 --> 3 Sum --> Arrays (Two Pointer) --> Medium --> https://bit.ly/3iBVghH <
 Day 9 --> Max Width of Binary Tree --> Trees --> Medium --> https://bit.ly/2O9HHYD <br/>
 Day 10 --> Flatten a Multilevel Doubly Linked List --> Linked List --> Medium --> https://bit.ly/3egpWl2 <br/>
 Day 11 --> Subsets --> Arrays --> Medium --> https://bit.ly/322XvVo <br/>
+Day 12 --> Reverse bits --> Bit Manipulation --> Medium (Easy on LC) --> https://bit.ly/2C2IcBq <br/>
