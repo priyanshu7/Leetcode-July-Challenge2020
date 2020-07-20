@@ -22,3 +22,5 @@ Day 15 --> Reverse Words in a String --> Strings --> Medium --> https://bit.ly/3
 Day 16 --> Pow(x,n) --> Recursion & Math --> Medium --> https://bit.ly/32nURK3 <br/>
 Day 17 --> Top K Frequent Elements --> Map & Bucket Sort --> Medium --> https://bit.ly/3fUq9fD <br/>
 Day 18 --> Course Schedule 2 --> Graphs (Topological Sort) --> Medium --> https://bit.ly/2DXmnE1 <br/>
+Day 19 --> Add Binary --> Strings & Binary --> Easy --> To be updated <br/>
+Day 20 --> Remove Linked List Elements --> Linked List --> Easy --> To be updated <br/>
