@@ -25,3 +25,4 @@ Day 18 --> Course Schedule 2 --> Graphs (Topological Sort) --> Medium --> https:
 Day 19 --> Add Binary --> Strings & Binary --> Easy --> https://bit.ly/2DTEUkq <br/>
 Day 20 --> Remove Linked List Elements --> Linked List --> Easy --> https://bit.ly/32C23lW <br/>
 Day 21 --> Word Search --> DFS --> Medium --> https://bit.ly/39ixDWU <br/>
+Day 22 --> Binary Tree Zigzag Level Order Traversal --> Trees --> Medium --> https://bit.ly/30EFHxh <br/>
