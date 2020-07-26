@@ -28,3 +28,4 @@ Day 21 --> Word Search --> DFS --> Medium --> https://bit.ly/39ixDWU <br/>
 Day 22 --> Binary Tree Zigzag Level Order Traversal --> Trees --> Medium --> https://bit.ly/30EFHxh <br/>
 Day 23 --> Single Number 3 --> Bit Manipulation --> Medium --> https://bit.ly/2CXkWFd <br/>
 Day 24 --> All Paths from Source To Target --> Graph --> Medium --> https://bit.ly/3f0cIcB <br/>
+Day 25 --> Find Minimum in Sorted Rotated Array II --> Binary Search --> Medium --> https://bit.ly/32RpfwB <br/>
