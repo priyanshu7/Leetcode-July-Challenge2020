@@ -29,3 +29,5 @@ Day 22 --> Binary Tree Zigzag Level Order Traversal --> Trees --> Medium --> htt
 Day 23 --> Single Number 3 --> Bit Manipulation --> Medium --> https://bit.ly/2CXkWFd <br/>
 Day 24 --> All Paths from Source To Target --> Graph --> Medium --> https://bit.ly/3f0cIcB <br/>
 Day 25 --> Find Minimum in Sorted Rotated Array II --> Binary Search --> Medium --> https://bit.ly/32RpfwB <br/>
+Day 26 --> Add Digits --> Math (Digital Root) --> Easy --> https://bit.ly/39xU0rC <br/>
+Day 27 --> Construct Binary Tree from Inorder and Postorder Traversal --> Trees --> Medium --> https://bit.ly/3f338pl <br/>
