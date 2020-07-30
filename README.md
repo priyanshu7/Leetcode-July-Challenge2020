@@ -31,3 +31,6 @@ Day 24 --> All Paths from Source To Target --> Graph --> Medium --> https://bit.
 Day 25 --> Find Minimum in Sorted Rotated Array II --> Binary Search --> Medium --> https://bit.ly/32RpfwB <br/>
 Day 26 --> Add Digits --> Math (Digital Root) --> Easy --> https://bit.ly/39xU0rC <br/>
 Day 27 --> Construct Binary Tree from Inorder and Postorder Traversal --> Trees --> Medium --> https://bit.ly/3f338pl <br/>
+Day 28 --> Task Scheduler --> Greedy --> Medium --> To be updated <br/>
+Day 29 --> Stock Buy Sell with Cooldown --> DP --> Medium --> To be updated <br/>
+Day 30 --> Word Break 2 --> DP --> Hard --> To be updated <br/> 
