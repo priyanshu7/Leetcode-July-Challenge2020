@@ -34,3 +34,4 @@ Day 27 --> Construct Binary Tree from Inorder and Postorder Traversal --> Trees 
 Day 28 --> Task Scheduler --> Greedy --> Medium --> To be updated <br/>
 Day 29 --> Stock Buy Sell with Cooldown --> DP --> Medium --> To be updated <br/>
 Day 30 --> Word Break 2 --> DP --> Hard --> To be updated <br/> 
+Day 31 --> Climbing Stairs --> DP (Fibonacci) --> Easy --> To be updated <br/>
